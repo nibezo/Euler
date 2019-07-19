@@ -11,4 +11,3 @@ for i in range(1000):  # cycle for find the sum
 print(answer)
 
 # https://projecteuler.net/problem=1 => problem description
-
